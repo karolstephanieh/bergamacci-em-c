@@ -1,6 +1,6 @@
 # Encontrar números da série Bergamacci
 
-Usando Linguagem C para encontrar os número da série Bergamacci usando while e for.
+Usando Linguagem C para encontrar os número da série Bergamacci usando while.
 
 
 ## Questão:
